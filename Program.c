@@ -2,7 +2,7 @@
 
 int main()
 {
-    char name,city,country,skill;
+    char name,city,country,age,skill;
     printf("Welcome to Hacktoberfest 2020\n");
     printf("Enter your name : ");//Get User name
     scanf("%s",&name);
